@@ -7,7 +7,7 @@ Hi! I'm Aspecter A developer from Kuwait
 
 
 ```python
-class AbhigyanTrips():
+class Aspecter():
     
   def __init__(self):
     self.username = "Aspecter";
